@@ -7,7 +7,6 @@ import argparse
 import random
 import json
 
-
 MY_PEER_ID = b'github.com/EpocDotFr'
 
 
